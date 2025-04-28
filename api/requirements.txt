@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+langchain
+langchain_community
+# For potential open-source LLM use (adjust based on chosen model/library)
+transformers
+torch
+sentencepiece
+accelerate
+# For notebooks
+notebook
+ipykernel
+
+# Add specific newsapi client if preferred, otherwise use requests
+# newsapi-python
