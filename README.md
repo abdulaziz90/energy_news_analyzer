@@ -9,7 +9,7 @@ This project provides a Python-based API and accompanying Jupyter notebooks for 
 *   **Summarization:** Generates concise summaries of articles.
 *   **Impact Assessment (Experimental):** Provides a qualitative assessment of the potential impact of news on the energy market context.
 
-This project is designed as a portfolio piece to showcase skills in API development, NLP, LLM integration (using Langchain), data processing, and project structuring. It specifically targets interests relevant to companies in the energy analytics and services sectors, like Wood Mackenzie and Aggreko.
+This project is designed as a portfolio piece to showcase skills in API development, NLP, LLM integration (using Langchain), data processing, and project structuring. It specifically targets interests relevant to companies in the energy analytics and services sectors.
 
 ## Features
 
